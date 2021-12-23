@@ -1,6 +1,6 @@
 # ImageAdder
-A JavaFX Test
-## requirements
+A Simple JavaFX Project for adding two pictures. 
+## Requirements
 java == 11.0.7
 
 opencv == 3.4.11
