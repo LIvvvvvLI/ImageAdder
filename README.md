@@ -1,5 +1,5 @@
 # ImageAdder
-A Simple JavaFX Project for adding two pictures. 
+A simple JavaFX project for adding two pictures. 
 ## Requirements
 java == 11.0.7
 
